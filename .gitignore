@@ -1,4 +1,4 @@
 node_modules/
 package-lock.json
-session.data.json
+verdikawai.session.json
 database.json
