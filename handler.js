@@ -20,7 +20,7 @@ module.exports = {
         if (!m) return
         
         global.namabot = await this.user.name
-        global.wm = namabot + ' ву ƒσкυѕ ι∂'
+        global.wm = namabot + ' SC BY VERDI'
         //console.log(JSON.stringify(m, null, 4))
         try {
             m = simple.smsg(this, m) || m
@@ -601,7 +601,7 @@ module.exports = {
                 if (chat.welcome) {
                     let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                     for (let user of participants) {
-                        let pp = 'https://telegra.ph/file/2d06f0936842064f6b3bb.png'
+                        let pp = 'https://telegra.ph/file/a352c6bb8895f9df1d5ff.mp4'
                         try {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
