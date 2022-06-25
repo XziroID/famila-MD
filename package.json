@@ -1,5 +1,5 @@
 {
-    "name": "Family",
+    "name": "VERDIKAWAII",
     "version": "2.3.5",
     "description": "Simle Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
@@ -28,7 +28,8 @@
         "shiraori-md",
         "stikerin",
         "wabot-aq"
-    ],
+        "VERDIBOTZ1"
+ ],
     "homepage": "https://github.com/fokusdotid/family-md",
     "author": {
         "name": "Fokus ID"
@@ -42,7 +43,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.1.0",
+        "@adiwajshing/baileys": "^5.1.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^2.0.0",
         "awesome-phonenumber": "^2.69.0",
