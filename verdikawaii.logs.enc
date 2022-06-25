@@ -1,0 +1,21 @@
+@singring verdikawaii.api.cloneing.web//stroge//bot.wansaff
+<html><head></head><body>'
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Runner | Game</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+
+    <div id="prompt">
+        <div id="toolbar">
+            <h1 style="color:red" id="gameover"></h1><br>
+            <input type="button" id="startBtn" value="VERDIKAWAII.PLAYIN">
+        </div>
+    </div>
+    <canvas id="cvs"></canvas>
+
+    <script type="text/javascript" src="index.js"></script>
+
+</body></html>
